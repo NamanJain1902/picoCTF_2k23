@@ -1,0 +1,7 @@
+picoCTF{Wilhelm Zwalina}
+
+Steps Followed:
+
+1. cat file
+2. whois senders_ip
+3. get the sender name

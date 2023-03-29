@@ -1,0 +1,8 @@
+picoCTF{Sch3DUL7NG_T45K3_L1NUX_1b4d8744}
+
+
+Steps Followed:
+
+1. ssh username@ip -p portnum
+2. cd /challenge
+3. cat metadata.json | grep pico

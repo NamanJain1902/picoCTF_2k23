@@ -1,0 +1,12 @@
+
+pico, top, map - move rightmost then down to end
+down - (x - 1, y + 1)
+new  - (x - 1, y) --- up_move
+yes  - (x + 1, y) --- down_move
+baby, game, navigate, fast - (x, y - 1) --- left_move
+find - (x, y + 1) --- right_move
+
+
+wasd to move
+
+to change character value: `l any-char'

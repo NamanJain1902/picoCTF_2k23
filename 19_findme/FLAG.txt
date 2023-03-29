@@ -1,0 +1,14 @@
+picoCTF{proxies_all_the_way_d1c0b112}
+
+Steps Followed:
+
+1. Check url
+2. Copy both ids
+3. Convert from base 64
+
+
+
+http://saturn.picoctf.net:55924/next-page/id=cGljb0NURntwcm94aWVzX2Fs
+http://saturn.picoctf.net:55924/next-page/id=bF90aGVfd2F5X2QxYzBiMTEyfQ==
+
+picoCTF{proxies_all_the_way_d1c0b112}

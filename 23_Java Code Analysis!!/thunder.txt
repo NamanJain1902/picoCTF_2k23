@@ -1,0 +1,11 @@
+/bookshelf-pico/userdata/books/pdfs
+
+
+PHPSESSID: 8mirk372edkee0q1v05rhkci5a
+Domain   : saturn.picoctf.net
+
+
+token-payload: {"role":"Free","iss":"bookshelf","exp":1680510465,"iat":1679905665,"userId":1,"email":"user"}
+
+
+

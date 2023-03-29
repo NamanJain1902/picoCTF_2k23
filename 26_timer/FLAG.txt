@@ -1,0 +1,7 @@
+picoCTF{t1m3r_r3v3rs3d_succ355fully_17496}
+
+
+Steps Followed:
+
+1. Uploaded apk on online decompiler.
+2. On downloaded source code directory enter command `grep -RoE "picoCTF{.*?}"`

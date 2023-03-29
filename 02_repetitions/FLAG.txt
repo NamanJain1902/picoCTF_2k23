@@ -1,0 +1,7 @@
+picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_dfe803c6}
+
+Steps Followed:
+
+1. Opened file in notepad.
+2. Decoded text using online base64 decorder multiple times.
+3. Obtained the flag :)

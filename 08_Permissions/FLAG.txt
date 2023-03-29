@@ -1,0 +1,8 @@
+picoCTF{uS1ng_v1m_3dit0r_1cee9dcb}
+
+Steps Followed:
+
+1. SSH into "ssh -p 62915 picoplayer@saturn.picoctf.net"
+2. cd /
+3. cd challenge
+4. grep pico metadata.json

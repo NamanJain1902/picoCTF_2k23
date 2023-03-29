@@ -1,0 +1,11 @@
+picoCTF{R34DING_LOKd_fil56_succ3ss_0f2afb1a}
+
+
+Steps Followed:
+
+1. Open packet in wireshark.
+2. Get data from packet 48.
+3. Converted Data value from hex.
+4. Converted obtained data from hex to base64.
+5. Obtained picoCTF{R34DING_LOKd_ which is password to open flag file.
+6  Get the ctf flag after entering password in flag file.

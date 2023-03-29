@@ -1,0 +1,6 @@
+picoCTF{read_mycert_693f7c03}
+
+Steps Followed
+
+1. Decode using base64
+2. Flag on first line itself.

@@ -1,0 +1,9 @@
+picoCTF{w34k_jwt_n0t_g00d_d72df65e}
+
+Steps Followed:
+
+1. Update token_payload and auth_token using https://jwt.io/
+
+
+
+

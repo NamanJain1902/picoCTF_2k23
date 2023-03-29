@@ -1,0 +1,1 @@
+{"typ":"JWT","alg":"HS256"}{"role":"Free","iss":"bookshelf","exp":1680520189,"iat":1679915389,"userId":1,"email":"user"}

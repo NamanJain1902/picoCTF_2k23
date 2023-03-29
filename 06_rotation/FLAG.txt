@@ -1,0 +1,7 @@
+picoCTF{r0tat1on_d3crypt3d_949af1a1}
+
+Steps Followed:
+
+1. Go to https://cryptii.com/
+2. Encode in Caesar cipher.
+3. Shift character by 18 i.e. a -> s. 

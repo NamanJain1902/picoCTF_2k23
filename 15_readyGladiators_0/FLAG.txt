@@ -1,0 +1,8 @@
+picoCTF{h3r0_t0_z3r0_4m1r1gh7_7c030e56}
+
+Steps Followed:
+
+1. download imp.red
+2. Change mov in imp.red from "0, 1" to "0, 0"
+3. nc saturn.picoctf.net 59307 < imp.red
+4. Got the flag :-)

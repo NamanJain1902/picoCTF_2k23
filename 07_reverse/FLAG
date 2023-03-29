@@ -1,0 +1,6 @@
+picoCTF{3lf_r3v3r5ing_succe55ful_fa9cb3b1}
+
+Steps Followed:
+
+1. Enter command `strings ret | grep pico`
+
